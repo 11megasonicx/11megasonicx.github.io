@@ -10,3 +10,5 @@ Source: https://www.foodnetwork.com/how-to/articles/how-to-make-perfect-rice-a-s
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CH50zuS8DD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO
